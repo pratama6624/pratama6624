@@ -24,12 +24,12 @@ I've always been fascinated by the power of technology to create solutions and s
 To become a developer who not only excels in iOS development but also creates meaningful and impactful software that elevates the user experience. I believe in continuous learning and strive to stay updated with the latest in technology, especially as it relates to the Apple ecosystem.
 
 ### 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=hexarch&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=hexarch&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=hexarch&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=pratama6624&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=pratama6624&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=pratama6624&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=hexarch&icon=5&color=1)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=pratama6624&icon=5&color=1)](https://visitcount.itsvg.in)
 
 ### 📫 Let's Connect!
 - [LinkedIn]
