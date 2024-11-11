@@ -2,11 +2,10 @@
 
 ### iOS Developer | Tech Enthusiast
 
-Welcome to my GitHub! I’m an iOS developer with a passion for building user-centered apps within the Apple ecosystem. My journey in tech is rooted in curiosity, and while iOS is my primary focus, I enjoy exploring backend development, AI, machine learning, and robotics.
+Welcome to my GitHub! I am an aspiring iOS developer. My journey in tech is rooted in curiosity, and while iOS is my primary focus, I enjoy exploring backend development, AI, machine learning, and robotics.
 
 ### Interests
-- **iOS Development** (Swift, SwiftUI, UIKit)
-- **Apple Technologies** (WatchOS, macOS, tvOS, visionOS)
+- **Apple Development** (iOS, watchOS, macOS, tvOS, visionOS)
 - **Backend & Robotics** (CodeIgniter 4, Spring Boot, Arduino)
 
 ### Mission
