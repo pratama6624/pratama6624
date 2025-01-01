@@ -1,16 +1,14 @@
 # Hi, I'm Pratama 👋
 
-### iOS Developer | Tech Enthusiast
+# Consistency is key and it's all just a matter of time.
 
-Welcome to my GitHub! I am an aspiring iOS developer. My journey in tech is rooted in curiosity, and while iOS is my primary focus, I enjoy exploring backend development, AI, machine learning, and robotics.
+### Apple Developer | Tech Enthusiast
+
+Welcome to my GitHub! I am a beginner aspiring iOS developer. In addition to iOS, I am also interested in backend, AI, machine learning, and robotics. I am constantly learning and open to feedback and collaboration. 😊
 
 ### Interests
 - **Apple Development** (iOS, watchOS, macOS, tvOS, visionOS)
-- **Backend & Robotics** (CodeIgniter 4, Spring Boot, Arduino)
-
-### Mission
-To keep learning and contribute to meaningful, high-quality apps that improve user experiences. I’m committed to growing in iOS development while staying open to the evolving tech landscape.
-
+- **Backend & Robotics** (CodeIgniter 4, Laravel 11, Spring Boot, Arduino)
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=pratama6624&theme=dark&hide_border=false)
 
