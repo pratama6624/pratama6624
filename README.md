@@ -1,6 +1,6 @@
 # Hi, I'm Pratama 👋
 
-# Consistency is key and it's all just a matter of time.
+## Consistency is key and it's all just a matter of time...
 
 ### Apple Developer | Tech Enthusiast
 
