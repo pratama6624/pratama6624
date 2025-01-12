@@ -8,7 +8,8 @@ Welcome to my GitHub! I am a beginner aspiring iOS developer. In addition to iOS
 
 ### Interests
 - **Apple Development** (iOS, watchOS, macOS, tvOS, visionOS)
-- **Backend & Robotics** (CodeIgniter [PHP], Laravel [PHP], Spring Boot [Java], Arduino)
+- **Backend** (CodeIgniter [PHP], Laravel [PHP], Spring Boot [Java])
+- **Robotics** (Arduino)
 
 ---
 ![](https://github-readme-streak-stats.herokuapp.com/?user=pratama6624&theme=dark&hide_border=false)
@@ -17,4 +18,3 @@ Welcome to my GitHub! I am a beginner aspiring iOS developer. In addition to iOS
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=pratama6624&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-![](https://visitcount.itsvg.in/api?id=pratama6624&icon=5&color=1)](https://visitcount.itsvg.in)
