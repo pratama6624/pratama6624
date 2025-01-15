@@ -2,7 +2,7 @@
 
 ## Consistency is key and it's all just a matter of time...
 
-### Apple Developer | Tech Enthusiast | Lifelong Learner
+### Tech Enthusiast
 
 Welcome to my GitHub! I am a beginner aspiring iOS developer. In addition to iOS, I am also interested in backend, AI, machine learning, and robotics. I am constantly learning and open to feedback and collaboration. 😊
 
