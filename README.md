@@ -2,11 +2,8 @@
 
 ## Consistency is key and it's all just a matter of time...
 
-### Tech Enthusiast
-
 Welcome to my GitHub! I am a beginner aspiring iOS developer. In addition to iOS, I am also interested in backend, AI, machine learning, and robotics. I am constantly learning and open to feedback and collaboration. 😊
 
-### Interests
 - **Apple Development** (iOS, watchOS, macOS, tvOS, visionOS)
 - **Backend** (CodeIgniter [PHP], Laravel [PHP], Spring Boot [Java])
 - **Robotics** (Arduino)
