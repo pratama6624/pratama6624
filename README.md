@@ -8,4 +8,5 @@ Welcome to my GitHub! I am a beginner aspiring iOS developer. In addition to iOS
 
 ## Consistency is key and it's all just a matter of time...
 ![](https://github-readme-streak-stats.herokuapp.com/?user=pratama6624&theme=dark&hide_border=false)
+---
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=pratama6624&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
