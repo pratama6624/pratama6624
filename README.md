@@ -13,7 +13,7 @@ I specialize in building iOS apps using **Swift** and **SwiftUI**, and I’m cur
 Interested in talking about **Swift**, **iOS development**, or just tech in general?  
 Let’s connect and build something amazing together!
 
-#### Portfolio: [https://pratama6624.github.io](https://pratama6624.github.io)
-#### Linkedin: [https://www.linkedin.com/in/kukuhnurpratama-iosdeveloper](https://www.linkedin.com/in/kukuhnurpratama-iosdeveloper)
+Portfolio: [https://pratama6624.github.io](https://pratama6624.github.io)<br>
+Linkedin: [https://www.linkedin.com/in/kukuhnurpratama-iosdeveloper](https://www.linkedin.com/in/kukuhnurpratama-iosdeveloper)
 
 > _“Keep building. Keep shipping. Keep growing.”_
