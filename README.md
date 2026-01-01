@@ -9,9 +9,10 @@ I specialize in building iOS apps using **Swift** and **SwiftUI**, and I’m cur
 - Swift backend API with **Vapor**
 - IoT projects blending **hardware logic** and **smart software**
 
-<img height="60" alt="Image" src="https://github.com/user-attachments/assets/b059601e-2d9b-4bab-936a-e95aa9b275b2" />
-<img height="60" alt="Image" src="https://github.com/user-attachments/assets/ad557289-d535-42f5-8b2b-4b12cb29ee22" />
-<img height="60" alt="Image" src="https://github.com/user-attachments/assets/2a277fb5-562c-4c5f-9d10-9dbef7e237e8" />
+<img height="40" style="margin-left:15px;" alt="Image" src="https://github.com/user-attachments/assets/b059601e-2d9b-4bab-936a-e95aa9b275b2" />
+<img height="40" style="margin-left:15px;" alt="Image" src="https://github.com/user-attachments/assets/ad557289-d535-42f5-8b2b-4b12cb29ee22" />
+<img height="40" style="margin-left:15px;" alt="Image" src="https://github.com/user-attachments/assets/2a277fb5-562c-4c5f-9d10-9dbef7e237e8" />
+<img height="40" alt="Image" src="https://github.com/user-attachments/assets/097dbd79-4d83-4d87-9c05-70339cede8bd" />
 
 ### Let’s Connect
 Interested in talking about **Swift**, **iOS development**, or just tech in general?  
