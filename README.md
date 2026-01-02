@@ -10,6 +10,7 @@ I specialize in building iOS apps using **Swift** and **SwiftUI**, and I’m cur
 - IoT projects blending **hardware logic** and **smart software**
 
 <img height="40" alt="Image" src="https://github.com/user-attachments/assets/b059601e-2d9b-4bab-936a-e95aa9b275b2" />&nbsp;&nbsp;&nbsp;
+<img height="40" alt="Image" src="https://github.com/user-attachments/assets/3aad53ae-310a-4e7a-bddc-c7288ca077a3" />&nbsp;&nbsp;&nbsp;
 <img height="40" alt="Image" src="https://github.com/user-attachments/assets/ad557289-d535-42f5-8b2b-4b12cb29ee22" />&nbsp;&nbsp;&nbsp;
 <img height="40" alt="Image" src="https://github.com/user-attachments/assets/2a277fb5-562c-4c5f-9d10-9dbef7e237e8" />&nbsp;&nbsp;&nbsp;
 <img height="40" alt="Image" src="https://github.com/user-attachments/assets/097dbd79-4d83-4d87-9c05-70339cede8bd" />
