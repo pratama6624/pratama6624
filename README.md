@@ -14,6 +14,7 @@ I specialize in building iOS apps using **Swift** and **SwiftUI**, and I’m cur
 <img height="40" alt="Image" src="https://github.com/user-attachments/assets/ad557289-d535-42f5-8b2b-4b12cb29ee22" />&nbsp;&nbsp;&nbsp;
 <img height="40" alt="Image" src="https://github.com/user-attachments/assets/d6c7f51f-9793-4015-9a9d-e5d488c51848" />&nbsp;&nbsp;&nbsp;
 <img height="40" alt="Image" src="https://github.com/user-attachments/assets/4828ec53-13ed-4c28-a5e8-60a49e769346" />
+<img width="400" height="400" alt="Image" src="https://github.com/user-attachments/assets/a3acf08a-71a2-440a-a99b-de851c42a9b4" />
 
 ### Let’s Connect
 Interested in talking about **Swift**, **iOS development**, or just tech in general?  
